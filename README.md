@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [Nama Anda]!
+# 👋 Hello there, you can call me Nabil
 
 <div align="center">
   
@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 Tentang Saya
+## 🚀 About Me
 
-Seorang developer yang passionate dalam pemrograman dan terus belajar hal-hal baru! Saat ini fokus mengembangkan kemampuan dalam analisis data menggunakan Python.
+Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal baru! Saat ini saya sedang fokus mengembangkan kemampuan dalam analisis data menggunakan Python.
 
 - 💻 **Bahasa Favorit**: C++ & Python
 - 📊 **Sedang Belajar**: Data Analysis dengan Python
-- 🌱 **Minat**: Competitive Programming, Data Science, Algorithm Design
-- ⚡ **Fun Fact**: Saya percaya kode yang bersih adalah kode yang indah!
+- 🌱 **Minat**: Data Science, Sofware Developing
+- ⚡ **Fun Fact**: Kode yang baik adalah kode yang bisa dipahami orang lain
 
 ---
 
@@ -53,18 +53,6 @@ Seorang developer yang passionate dalam pemrograman dan terus belajar hal-hal ba
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🎯 Project Highlights
-
-### 🏆 C++ Projects
-- 🔹 **[Nama Project]** - Deskripsi singkat project
-- 🔹 **[Nama Project]** - Deskripsi singkat project
-
-### 📈 Python & Data Analysis Projects
-- 📊 **[Nama Project]** - Deskripsi singkat project analisis data
-- 📊 **[Nama Project]** - Deskripsi singkat project analisis data
 
 ---
 
