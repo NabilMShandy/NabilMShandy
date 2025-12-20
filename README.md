@@ -1,4 +1,4 @@
-# 👋 Hello there, you can call me Nabil
+# 👋 Hello there, welcome to my profile.
 
 <div align="center">
   
@@ -71,7 +71,7 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 
 <div align="center">
   
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  *"First rule of programming, if it works, dont touch it."*
   
 </div>
 
