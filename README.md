@@ -50,7 +50,7 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilMShandy&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabilMShandy&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=NabilMShandy&theme=tokyonight&hide_border=true)
 
 </div>
 
