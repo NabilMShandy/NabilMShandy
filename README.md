@@ -89,7 +89,6 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
   
   ### ⭐ Jangan lupa berikan star pada repository yang Anda suka!
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NabilMShandy.NabilMShandy)
   ![Stars](https://img.shields.io/github/stars/NabilMShandy?style=flat)
   
 </div>
