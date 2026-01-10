@@ -19,7 +19,7 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 
 - 💻 **Bahasa Favorit**: C++ & Python
 - 📊 **Sedang Belajar**: Data Analysis dengan Python
-- 🌱 **Minat**: Data Science, Sofware Developing
+- 🌱 **Minat**: Data Science, Software Developing
 - ⚡ **Fun Fact**: Kode yang baik adalah kode yang bisa dipahami orang lain
 
 ---
