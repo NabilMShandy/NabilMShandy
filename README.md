@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Never+Stop+Learning;C%2B%2B+%26+Python+Enthusiast;Data+Analysis+Learner)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Always+Curious;C%2B%2B+%26+Long-Life-Learner)
   
 </div>
 
@@ -19,7 +19,7 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 
 - 💻 **Bahasa Favorit**: C++ & Python
 - 📊 **Sedang Belajar**: Data Analysis dengan Python
-- 🌱 **Minat**: Data Science, Software Developing
+- 🌱 **Minat**: Data Science, Software Developing, Artificial Intelligence
 - ⚡ **Fun Fact**: Kode yang baik adalah kode yang bisa dipahami orang lain
 
 ---
