@@ -17,7 +17,7 @@
 
 Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal baru! Saat ini saya sedang fokus mengembangkan kemampuan dalam analisis data menggunakan Python.
 
-- 💻 **Bahasa yang sedang ditekuni**: C++, Python dan Javascript
+- 💻 **Bahasa yang sedang dipelajari**: C++, Python, Java dan Javascript
 - 📊 **Sedang Belajar**: Data Analysis dengan Python
 - 🌱 **Minat**: Data Science, Software Developing, Artificial Intelligence
 - ⚡ **Fun Fact**: Kode yang baik adalah kode yang bisa dipahami orang lain
@@ -31,6 +31,8 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 ### 🧑‍💻 Bahasa Pemrograman Yang Sedang Ditekuni
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📚 Sedang Dipelajari
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -79,7 +81,7 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 
 <div align="center">
   
-  *"First rule of programming, if it works, dont touch it."*
+  ![Dijkstra Quote](https://img.shields.io/badge/Edsger_W._Dijkstra-Simplicity_is_prerequisite_for_reliability.-00599C?style=for-the-badge&logo=googlescholar&logoColor=white)
   
 </div>
 
@@ -99,7 +101,6 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
   
   **💙 Thanks for visiting! 💙**
 
-  
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=See+ya!)
   
 </div>
