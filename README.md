@@ -28,12 +28,12 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 
 <div align="center">
 
-### 🧑‍💻 Bahasa Pemrograman Yang Sedang Ditekuni
+### 🧑‍💻 Programming Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📚 Sedang Dipelajari
+### 📚 Tech Stack
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
