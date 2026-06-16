@@ -49,15 +49,21 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NabilMShandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+<table>
+<tr>
+<td valign="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NabilMShandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NabilMShandy&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NabilMShandy&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilMShandy&theme=tokyonight&hide_border=true" width="70%" />
 
-  
 </div>
 
 ---
