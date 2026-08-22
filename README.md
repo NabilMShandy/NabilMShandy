@@ -54,10 +54,10 @@ Seorang mahasiswa yang passionate dalam pemrograman dan terus belajar hal-hal ba
 <table>
 <tr>
 <td valign="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NabilMShandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats-omega-orpin-84.vercel.app/api?username=NabilMShandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NabilMShandy&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
+<img src="https://github-readme-stats-omega-orpin-84.vercel.app/api/top-langs/?username=NabilMShandy&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
 </td>
 </tr>
 </table>
